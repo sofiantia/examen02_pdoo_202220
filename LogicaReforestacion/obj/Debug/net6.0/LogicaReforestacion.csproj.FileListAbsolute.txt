@@ -1,0 +1,12 @@
+/Users/mateobaronbotero/Projects/Reforestacion/LogicaReforestacion/bin/Debug/net6.0/LogicaReforestacion.deps.json
+/Users/mateobaronbotero/Projects/Reforestacion/LogicaReforestacion/bin/Debug/net6.0/LogicaReforestacion.dll
+/Users/mateobaronbotero/Projects/Reforestacion/LogicaReforestacion/bin/Debug/net6.0/LogicaReforestacion.pdb
+/Users/mateobaronbotero/Projects/Reforestacion/LogicaReforestacion/obj/Debug/net6.0/LogicaReforestacion.csproj.AssemblyReference.cache
+/Users/mateobaronbotero/Projects/Reforestacion/LogicaReforestacion/obj/Debug/net6.0/LogicaReforestacion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateobaronbotero/Projects/Reforestacion/LogicaReforestacion/obj/Debug/net6.0/LogicaReforestacion.AssemblyInfoInputs.cache
+/Users/mateobaronbotero/Projects/Reforestacion/LogicaReforestacion/obj/Debug/net6.0/LogicaReforestacion.AssemblyInfo.cs
+/Users/mateobaronbotero/Projects/Reforestacion/LogicaReforestacion/obj/Debug/net6.0/LogicaReforestacion.csproj.CoreCompileInputs.cache
+/Users/mateobaronbotero/Projects/Reforestacion/LogicaReforestacion/obj/Debug/net6.0/LogicaReforestacion.dll
+/Users/mateobaronbotero/Projects/Reforestacion/LogicaReforestacion/obj/Debug/net6.0/refint/LogicaReforestacion.dll
+/Users/mateobaronbotero/Projects/Reforestacion/LogicaReforestacion/obj/Debug/net6.0/LogicaReforestacion.pdb
+/Users/mateobaronbotero/Projects/Reforestacion/LogicaReforestacion/obj/Debug/net6.0/ref/LogicaReforestacion.dll
