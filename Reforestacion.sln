@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reforestacion", "Reforestacion\Reforestacion.csproj", "{C8E4C257-E132-4BD6-9836-5AE7D3EF4E1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaReforestacion", "LogicaReforestacion\LogicaReforestacion.csproj", "{8E9C3C9D-DE06-4A87-B618-87A85EA380EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8E4C257-E132-4BD6-9836-5AE7D3EF4E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E4C257-E132-4BD6-9836-5AE7D3EF4E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E4C257-E132-4BD6-9836-5AE7D3EF4E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E4C257-E132-4BD6-9836-5AE7D3EF4E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E9C3C9D-DE06-4A87-B618-87A85EA380EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E9C3C9D-DE06-4A87-B618-87A85EA380EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E9C3C9D-DE06-4A87-B618-87A85EA380EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E9C3C9D-DE06-4A87-B618-87A85EA380EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00C427E8-B8EE-4A38-B6B9-B88AF93D7F0A}
+	EndGlobalSection
+EndGlobal
